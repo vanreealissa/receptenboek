@@ -26,7 +26,7 @@ class DatabaseSeeder extends Seeder
                 'description' => 'Dunne pannenkoeken zoals oma ze maakte. Lekker met stroop of spek.',
                 'prep_minutes' => 30,
                 'servings' => 4,
-                'ingredients' => "250 g bloem\n500 ml melk\n2 eieren\n1 snufje zout\n3 el boter om te bakken",
+                'ingredients' => "250 g bloem\n500 ml melk\n2 eieren\nsnufje zout\n3 el boter om te bakken",
                 'steps' => "Doe de bloem en het zout in een kom en maak een kuiltje.\nVoeg de eieren en de helft van de melk toe en klop tot een glad beslag.\nVoeg al kloppend de rest van de melk toe.\nBak de pannenkoeken één voor één in een beetje boter.",
             ],
             [
